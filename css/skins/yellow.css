@@ -1,0 +1,43 @@
+/*  red color style    */
+.preloader .loader i,
+.btn-1:hover,
+.header .nav ul li a.active,
+.people-section .people-item-inner .social-links a i,
+.event-section .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-text h3,
+.couple-section .couple h3,
+body.dark .header .nav ul li a.active,
+body.dark .header .nav ul li a:hover,
+.couple-section .couple i.fa-heart,
+.couple-section .social-links a i,
+.header .nav ul li a:hover{
+    color: #ff9801;
+}
+
+.btn-1,
+.event-section .event-item-inner::before,
+.couple-section .social-links a i,
+.people-section .people-item-inner .social-links a i,
+.couple-section .couple img{
+    border-color:  #ff9801;
+}
+
+.preloader .loader:before{
+    border-right-color:  #ff9801;
+}
+.setting .s-toggle-btn,
+.rvsp-section,
+.btn-1,
+.people-section .people-item-inner .social-links a:hover i,
+body.dark .people-section .filter-btn.active,
+.event-section,
+.people-section .filter-btn.active,
+.couple-section .social-links a:hover i{
+    background-color:  #ff9801;
+}
+
+.event-section .event-item-inner img,
+.footer .footer-content .couple-name img{
+    filter: hue-rotate(45deg);
+}
