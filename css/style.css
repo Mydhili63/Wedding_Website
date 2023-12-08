@@ -1017,13 +1017,13 @@ body.dark .header.fixed{
 
 @media (min-width:425px ) {
     .people-section .people-item .people-item-inner{
-        height: 455px;
+        height: 475px;
     }
 }
 
 @media (min-width:375px) {
     .people-section .people-item-inner{
-        height: 400px;
+        height: 420px;
     }
     .header .logo img{
         width: 70%;
@@ -1033,7 +1033,7 @@ body.dark .header.fixed{
 
 @media (min-width:768px) {
     .people-section .people-item .people-item-inner{
-        height: 300px;
+        height: 340px;
     }
     
 

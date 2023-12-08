@@ -118,7 +118,7 @@
 
 @media screen and (max-width: 768px) and (min-width: 426px) {
     .people-section .people-item .people-item-inner{
-        height: 400px;
+        height: 420px;
     }
 }
 
@@ -131,7 +131,7 @@
         width: 70%;
     }
     .people-section .people-item .people-item-inner{
-        height: 360px;
+        height: 380px;
     }
    
 }
