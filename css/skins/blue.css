@@ -10,6 +10,7 @@
 .couple-section .couple i.fa-heart,
 .couple-section .social-links a i,
 body.dark .header .nav ul li a.active,
+.footer .footer-content .symbol-inner .symbol,
 body.dark .header .nav ul li a:hover,
 .header .nav ul li a:hover{
     color: #3e99f4;
@@ -38,6 +39,7 @@ body.dark .people-section .filter-btn.active,
     background-color: #3e99f4;
 }
 
+.header .logo img,
 .event-section .event-item-inner img,
 .footer .footer-content .couple-name img{
     filter: hue-rotate(220deg);

@@ -11,6 +11,7 @@
 .couple-section .social-links a i,
 body.dark .header .nav ul li a.active,
 body.dark .header .nav ul li a:hover,
+.footer .footer-content .symbol-inner .symbol,
 .header .nav ul li a:hover{
     color: #fb839e;
 }
@@ -37,3 +38,4 @@ body.dark .people-section .filter-btn.active,
 .couple-section .social-links a:hover i{
     background-color: #fb839e;
 }
+
