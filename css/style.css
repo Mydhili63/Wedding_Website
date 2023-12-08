@@ -1017,13 +1017,13 @@ body.dark .header.fixed{
 
 @media (min-width:425px ) {
     .people-section .people-item .people-item-inner{
-        height: 435px;
+        height: 455px;
     }
 }
 
 @media (min-width:375px) {
     .people-section .people-item-inner{
-        height: 385px;
+        height: 400px;
     }
     .header .logo img{
         width: 70%;

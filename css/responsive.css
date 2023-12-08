@@ -118,13 +118,20 @@
 
 @media screen and (max-width: 768px) and (min-width: 426px) {
     .people-section .people-item .people-item-inner{
-        height: 385px;
+        height: 400px;
     }
 }
+
+
+
+
 
 @media (max-width: 320px) {
     .header .logo img{
         width: 70%;
+    }
+    .people-section .people-item .people-item-inner{
+        height: 360px;
     }
    
 }
