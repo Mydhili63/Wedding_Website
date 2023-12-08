@@ -133,11 +133,23 @@
     .people-section .people-item .people-item-inner{
         height: 420px;
     }
+    .header .logo img{
+        width: 68%;
+    }
+}
+
+@media screen and (min-width:425px) and (max-width:767px) {
+    .header .logo img{
+        width: 75%;
+    }
 }
 
 @media  screen and (max-width: 425px) and (min-width: 375px) {
     .people-section .people-item .people-item-inner{
         height: 425px;
+    }
+    .header .logo img{
+        width: 68%;
     }
 }
 
@@ -146,6 +158,9 @@
 @media (max-width: 374px)  {
     .people-section .people-item .people-item-inner{
         height: 400px;
+    }
+    .header .logo img{
+        width: 62%;
     }
 }
 /* @media screen and (max-width: 768px) and (min-width: 426px) {
