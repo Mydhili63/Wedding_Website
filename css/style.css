@@ -628,7 +628,7 @@ footer{
     background-color: #ffffff;
     padding: 15px;
     text-align: center;
-    height: 340px;
+    height: 470px;
 }
 
 .people-section .people-item-inner img{
@@ -1008,36 +1008,12 @@ body.dark .header.fixed{
     border-color: transparent;
 }
 
+
 @media (max-width:767px) {
     body.dark .header .nav{
         background-color: #222222;
     }
     
 }
-
-@media (min-width:425px ) {
-    .people-section .people-item .people-item-inner{
-        height: 475px;
-    }
-}
-
-@media (min-width:375px) {
-    .people-section .people-item-inner{
-        height: 420px;
-    }
-    .header .logo img{
-        width: 70%;
-    }
-    
-}
-
-@media (min-width:768px) {
-    .people-section .people-item .people-item-inner{
-        height: 340px;
-    }
-    
-
-}
-
 
 
